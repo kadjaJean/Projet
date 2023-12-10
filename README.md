@@ -10,9 +10,9 @@ Le code commence par monter le lecteur Google Drive pour accéder aux données s
 
 Le code effectue plusieurs étapes de prétraitement des données :
 
-    -Sélection des images RGB : Seules les images RGB sont conservées, et les images infrarouges sont écartées. Les images RGB sont sélectionnées en fonction de leurs indices pairs.
-    -Encodage des labels : Les labels sont encodés en utilisant un mapping.
-    -Création des chemins d'accès aux images : Les chemins d'accès aux images sont ajoutés au DataFrame.
+    - Sélection des images RGB : Seules les images RGB sont conservées, et les images infrarouges sont écartées. Les images RGB sont sélectionnées en fonction de leurs indices pairs.
+    - Encodage des labels : Les labels sont encodés en utilisant un mapping.
+    - Création des chemins d'accès aux images : Les chemins d'accès aux images sont ajoutés au DataFrame.
 
 ### EXPLORATION DES DONNEES
 
